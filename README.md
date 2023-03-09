@@ -4,3 +4,6 @@ The purpose of this project is to identify the mathematical model of a BLDC moto
 
 Matlab is used to visualize the experimental data. The "baci.mat" file is imported, which contains two fields, X and Y. The X vector represents the time domain, and the Y vector is composed of input (u'), angular velocity (w'), and angular position (th') values.
 ![untitled](https://user-images.githubusercontent.com/118546616/223975008-d3b19719-9645-4a5a-b516-40b78de9fe1b.jpg)
+
+
+I used a step input to determine a transfer function that follows the BLDC motor axis and ploted it over the initial data 
