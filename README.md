@@ -12,3 +12,6 @@ I used a step input to determine a transfer function that follows the BLDC motor
 
 After that i used parametric methods to determine a more concise transfer function for all the relations between the inputs. I used autocorelation and intercorelation methods that resulted in a much better estimation of the transfer function.
 
+![intrare-viteza](https://user-images.githubusercontent.com/118546616/223976960-a8aa2d0e-3038-4b02-89c7-942bec38ec16.jpg)
+
+A more detailed documentation of the project is found in the files of this github repository.
