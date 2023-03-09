@@ -7,3 +7,6 @@ Matlab is used to visualize the experimental data. The "baci.mat" file is import
 
 
 I used a step input to determine a transfer function that follows the BLDC motor axis and ploted it over the initial data 
+
+![viteza-simulata-tot-sistem](https://user-images.githubusercontent.com/118546616/223975741-c2d7c73d-33d5-4ad6-b0ae-c02d8265feff.jpg)
+
